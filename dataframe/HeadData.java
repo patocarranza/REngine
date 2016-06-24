@@ -1,7 +1,5 @@
-/*
- * *********COPYRIGHT BY JOHN N. DEMOS 2015. ALL RIGHTS RESERVED.********
- */
-package com.jewel.core.model;
+
+package dataframe;
 
 import com.jewel.core.exceptions.*;
 import com.jewel.core.interfaces.*;

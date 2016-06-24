@@ -1,7 +1,4 @@
-/*
- * *********COPYRIGHT BY JOHN N. DEMOS 2016. ALL RIGHTS RESERVED.********
- */
-package com.jewel.dzm.surface.power1020.scriptsProcessors;
+package dataframe;
 
 import com.jewel.core.conditions.scriptsProcessors.ConditionsMapsProcessor;
 import com.jewel.core.exceptions.*;

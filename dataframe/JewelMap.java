@@ -1,7 +1,4 @@
-/*
- * *********COPYRIGHT BY JOHN N. DEMOS 2015. ALL RIGHTS RESERVED.********
- */
-package com.jewel.core.model;
+package dataframe;
 
 import java.util.Map;
 
