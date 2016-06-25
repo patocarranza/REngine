@@ -13,7 +13,7 @@ package org.rosuda.rengine;
 
 /**
  * This exception is thrown whenever the operation requested is not supported by
- * the given R object type, e.g. using <tt>asStrings</tt> on an S4 object. Most
+ * the given R object type, e.g. using <tt>asStrings</tt> on an S4 object. Most 
  * {@link REXP} methods throw this exception. Previous R/Java interfaces were
  * silently returning <code>null</code> in those cases, but using exceptions
  * helps to write more robust code.

@@ -9,7 +9,7 @@ public class REXPString extends REXPVector {
    * payload
    */
   private String[] payload;
-
+ 
   /**
    * create a new character vector of the length one
    *

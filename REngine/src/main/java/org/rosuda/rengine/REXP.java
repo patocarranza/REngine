@@ -13,7 +13,7 @@ package org.rosuda.rengine;
  * This root class will throw on any accessor call and returns
  * <code>false</code> for all type methods. This allows subclasses to override
  * accessor and type methods selectively.
- */
+ */ 
 public class REXP implements java.io.Serializable {
 
   /**
